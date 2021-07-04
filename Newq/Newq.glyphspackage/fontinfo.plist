@@ -189,6 +189,12 @@ type = "italic angle";
 }
 );
 unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"CA145713-800E-4AD6-B2AC-DB97E56B9903" = {
+};
+};
+};
 versionMajor = 1;
 versionMinor = 0;
 }
