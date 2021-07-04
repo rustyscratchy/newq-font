@@ -13,6 +13,7 @@ K,
 L,
 M,
 N,
+Ntilde,
 O,
 P,
 Q,
@@ -87,5 +88,7 @@ greater,
 less,
 asciicircum,
 percent,
-grave
+tildecomb,
+grave,
+tilde
 )
