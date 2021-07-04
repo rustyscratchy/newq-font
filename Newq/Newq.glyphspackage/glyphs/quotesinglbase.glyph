@@ -1,0 +1,15 @@
+{
+glyphname = quotesinglbase;
+layers = (
+{
+layerId = "CA145713-800E-4AD6-B2AC-DB97E56B9903";
+shapes = (
+{
+ref = comma;
+}
+);
+width = 273;
+}
+);
+unicode = 8218;
+}

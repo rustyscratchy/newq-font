@@ -1,0 +1,193 @@
+{
+.appVersion = "3091";
+.formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
+date = "2020-07-26 21:51:37 +0000";
+familyName = Newquay;
+fontMaster = (
+{
+axesValues = (
+100
+);
+id = "CA145713-800E-4AD6-B2AC-DB97E56B9903";
+metricValues = (
+{
+pos = 800;
+},
+{
+pos = 700;
+},
+{
+pos = 500;
+},
+{
+},
+{
+pos = -200;
+},
+{
+}
+);
+name = Regular;
+}
+);
+instances = (
+{
+axesValues = (
+100
+);
+instanceInterpolations = {
+"CA145713-800E-4AD6-B2AC-DB97E56B9903" = 1;
+};
+name = Regular;
+}
+);
+kerningLTR = {
+"CA145713-800E-4AD6-B2AC-DB97E56B9903" = {
+A = {
+C = -40;
+G = -40;
+O = -40;
+T = -100;
+V = -90;
+W = -90;
+Y = -150;
+quoteright = -170;
+};
+B = {
+comma = -20;
+quoteright = -110;
+};
+C = {
+O = -10;
+};
+D = {
+A = -20;
+comma = -50;
+quoteright = -80;
+};
+E = {
+A = -10;
+};
+F = {
+A = -50;
+comma = -90;
+};
+G = {
+quoteright = -70;
+};
+I = {
+quotesingle = 0;
+};
+J = {
+A = -20;
+comma = -50;
+};
+K = {
+hyphen = -70;
+quoteright = -30;
+};
+L = {
+O = -40;
+T = -110;
+Y = -130;
+quoteright = -120;
+quotesingle = -130;
+};
+N = {
+quotesingle = 0;
+};
+O = {
+A = -30;
+J = -70;
+S = -10;
+V = -30;
+W = -40;
+X = -50;
+Y = -70;
+comma = -40;
+quoteright = -70;
+};
+P = {
+A = -90;
+S = -20;
+comma = -140;
+quoteright = -70;
+};
+Q = {
+quoteright = -60;
+};
+R = {
+Y = -60;
+quoteright = -60;
+quotesingle = -20;
+};
+S = {
+A = -20;
+T = -10;
+comma = -30;
+};
+T = {
+A = -80;
+C = -50;
+O = -40;
+comma = -90;
+hyphen = -50;
+};
+U = {
+comma = -30;
+};
+V = {
+A = -50;
+comma = -90;
+};
+W = {
+A = -60;
+comma = -100;
+};
+Y = {
+A = -130;
+O = -70;
+S = -50;
+comma = -130;
+};
+Z = {
+comma = 0;
+};
+quoteright = {
+S = -40;
+};
+quotesingle = {
+S = -30;
+};
+};
+};
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}

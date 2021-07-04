@@ -1,0 +1,17 @@
+{
+glyphname = twosuperior;
+layers = (
+{
+layerId = "CA145713-800E-4AD6-B2AC-DB97E56B9903";
+shapes = (
+{
+ref = two;
+}
+);
+width = 693;
+}
+);
+metricLeft = two;
+metricRight = two;
+unicode = 178;
+}
