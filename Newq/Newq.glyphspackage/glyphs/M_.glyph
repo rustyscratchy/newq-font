@@ -27,5 +27,5 @@ width = 1016;
 );
 metricLeft = H;
 metricRight = H;
-unicode = (77,109);
+unicode = 77;
 }
