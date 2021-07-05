@@ -160,11 +160,17 @@ comma = -130;
 Z = {
 comma = 0;
 };
+o = {
+v = -40;
+};
 quoteright = {
 S = -40;
 };
 quotesingle = {
 S = -30;
+};
+v = {
+e = -40;
 };
 };
 };
