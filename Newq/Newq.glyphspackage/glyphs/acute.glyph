@@ -1,0 +1,21 @@
+{
+glyphname = acute;
+layers = (
+{
+layerId = "CA145713-800E-4AD6-B2AC-DB97E56B9903";
+shapes = (
+{
+closed = 1;
+nodes = (
+(99,565,l),
+(265,692,l),
+(120,692,l),
+(0,564,l)
+);
+}
+);
+width = 265;
+}
+);
+unicode = 180;
+}

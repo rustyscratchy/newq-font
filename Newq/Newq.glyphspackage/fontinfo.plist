@@ -170,6 +170,7 @@ quotesingle = -140;
 };
 o = {
 v = -40;
+w = -40;
 };
 period = {
 zero = -50;
@@ -180,6 +181,7 @@ S = -40;
 quotesingle = {
 S = -30;
 e = 0;
+s = -80;
 };
 three = {
 period = -20;

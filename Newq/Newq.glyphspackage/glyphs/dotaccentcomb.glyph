@@ -1,0 +1,25 @@
+{
+glyphname = dotaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (63,500);
+},
+{
+name = top;
+pos = (63,684);
+}
+);
+layerId = "CA145713-800E-4AD6-B2AC-DB97E56B9903";
+shapes = (
+{
+ref = dotaccent;
+}
+);
+width = 126;
+}
+);
+unicode = 775;
+}

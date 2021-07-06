@@ -2,6 +2,20 @@
 glyphname = A;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (402,0);
+},
+{
+name = ogonek;
+pos = (793,0);
+},
+{
+name = top;
+pos = (402,700);
+}
+);
 layerId = "CA145713-800E-4AD6-B2AC-DB97E56B9903";
 shapes = (
 {

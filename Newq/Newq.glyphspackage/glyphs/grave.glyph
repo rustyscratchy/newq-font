@@ -3,7 +3,18 @@ glyphname = grave;
 layers = (
 {
 layerId = "CA145713-800E-4AD6-B2AC-DB97E56B9903";
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(145,692,l),
+(0,692,l),
+(182,565,l),
+(281,564,l)
+);
+}
+);
+width = 281;
 }
 );
 unicode = 96;
