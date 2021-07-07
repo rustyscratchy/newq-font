@@ -3,7 +3,26 @@ glyphname = periodcentered;
 layers = (
 {
 layerId = "CA145713-800E-4AD6-B2AC-DB97E56B9903";
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(189,227,o),
+(226,264,o),
+(226,310,cs),
+(226,356,o),
+(189,393,o),
+(143,393,cs),
+(97,393,o),
+(60,356,o),
+(60,310,cs),
+(60,264,o),
+(97,227,o),
+(143,227,cs)
+);
+}
+);
+width = 286;
 }
 );
 unicode = 183;
