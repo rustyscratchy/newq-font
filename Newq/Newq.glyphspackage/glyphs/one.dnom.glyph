@@ -1,0 +1,29 @@
+{
+glyphname = one.dnom;
+layers = (
+{
+layerId = "CA145713-800E-4AD6-B2AC-DB97E56B9903";
+shapes = (
+{
+closed = 1;
+nodes = (
+(202,0,l),
+(202,364,l),
+(36,364,l),
+(36,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(111,307,l),
+(111,364,l),
+(0,364,l),
+(0,307,l)
+);
+}
+);
+width = 202;
+}
+);
+}

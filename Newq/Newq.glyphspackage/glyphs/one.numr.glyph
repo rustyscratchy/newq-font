@@ -1,0 +1,29 @@
+{
+glyphname = one.numr;
+layers = (
+{
+layerId = "CA145713-800E-4AD6-B2AC-DB97E56B9903";
+shapes = (
+{
+closed = 1;
+nodes = (
+(202,336,l),
+(202,700,l),
+(36,700,l),
+(36,336,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(111,643,l),
+(111,700,l),
+(0,700,l),
+(0,643,l)
+);
+}
+);
+width = 202;
+}
+);
+}
