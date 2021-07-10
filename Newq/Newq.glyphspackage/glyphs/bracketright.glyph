@@ -3,7 +3,36 @@ glyphname = bracketright;
 layers = (
 {
 layerId = "CA145713-800E-4AD6-B2AC-DB97E56B9903";
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(32,639,l),
+(238,639,l),
+(238,700,l),
+(32,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(132,-108,l),
+(251,-108,l),
+(251,700,l),
+(132,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(30,-108,l),
+(236,-108,l),
+(236,-47,l),
+(30,-47,l)
+);
+}
+);
+width = 281;
 }
 );
 unicode = 93;

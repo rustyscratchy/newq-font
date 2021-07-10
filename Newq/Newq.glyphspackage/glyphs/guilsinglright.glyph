@@ -3,7 +3,21 @@ glyphname = guilsinglright;
 layers = (
 {
 layerId = "CA145713-800E-4AD6-B2AC-DB97E56B9903";
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(106,55,l),
+(275,244,l),
+(275,304,l),
+(106,493,l),
+(30,493,l),
+(151,274,l),
+(30,55,l)
+);
+}
+);
+width = 305;
 }
 );
 unicode = 8250;

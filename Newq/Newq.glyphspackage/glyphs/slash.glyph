@@ -3,7 +3,18 @@ glyphname = slash;
 layers = (
 {
 layerId = "CA145713-800E-4AD6-B2AC-DB97E56B9903";
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(115,-153,l),
+(392,705,l),
+(307,705,l),
+(30,-153,l)
+);
+}
+);
+width = 422;
 }
 );
 unicode = 47;
