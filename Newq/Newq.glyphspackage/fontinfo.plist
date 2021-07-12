@@ -129,6 +129,7 @@ quoteright = -60;
 R = {
 Y = -60;
 a = -40;
+e = -40;
 o = -40;
 quoteright = -60;
 quotesingle = -20;
