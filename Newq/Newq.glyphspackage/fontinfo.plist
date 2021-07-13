@@ -50,8 +50,9 @@ name = Regular;
 kerningLTR = {
 "CA145713-800E-4AD6-B2AC-DB97E56B9903" = {
 "@MMK_L_o" = {
+f = -10;
 quotesingle = -80;
-y = -30;
+y = -50;
 };
 A = {
 C = -40;
@@ -218,7 +219,9 @@ period = {
 zero = -50;
 };
 quoteright = {
+C = -70;
 S = -40;
+s = -140;
 };
 quotesingle = {
 S = -30;
@@ -257,6 +260,7 @@ e = -50;
 y = {
 "@MMK_R_o" = -30;
 e = -40;
+quoteright = -50;
 };
 };
 };
